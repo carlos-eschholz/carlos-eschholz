@@ -13,7 +13,7 @@ Professor de matemática desde 2019 estou migrando para área de TI, trabalho co
 
 
 ### Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-eschholz&repo=pipeline-telegram)](https://github.com/carlos-eschholz/pipeline-telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlos-eschholz&repo=da-streaming)](https://github.com/carlos-eschholz/da-streaming)
 
 ### Principais linguagens:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eschholz)](https://github.com/carlos-eschholz/github-readme-stats)
